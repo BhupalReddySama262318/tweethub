@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-p@_e^9rlgfcuqot8rmnxv48u0gcm3iaj765r%4tsacc=zjc&o=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['//tweethub-ki95.onrender.com','127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['tweethub-ki95.onrender.com','127.0.0.1', 'localhost']
 
 
 # Application definition
